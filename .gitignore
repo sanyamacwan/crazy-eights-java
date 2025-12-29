@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build folders (if they appear)
+bin/
+target/
+
+# OS junk
+.DS_Store
+Thumbs.db
